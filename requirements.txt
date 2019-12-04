@@ -1,6 +1,6 @@
 ca-certificates==2019.1.23   
 certifi==2019.3.9     
-django==2.2.2          
+django==2.2.8          
 libedit==3.1.20181209   
 libffi==3.2.1 
 libgcc-ng==8.2.0 
