@@ -7,7 +7,7 @@ libgcc-ng==8.2.0
 libstdcxx-ng==8.2.0   
 ncurses==6.1     
 openssl==1.1.1b  
-pip==19.0.3  
+pip==19.2  
 python==3.6.8   
 pytz==2019.1
 readline==7.0   
