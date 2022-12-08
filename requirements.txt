@@ -1,5 +1,5 @@
 ca-certificates==2019.1.23   
-certifi==2019.3.9     
+certifi==2022.12.7     
 django==2.2.2          
 libedit==3.1.20181209   
 libffi==3.2.1 
